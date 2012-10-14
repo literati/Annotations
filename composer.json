@@ -1,4 +1,5 @@
 {
-    "name": "literati/Annotations"
+    "name": "literati/Annotations",
+    "type": "omeka-plugin"
 }
 
